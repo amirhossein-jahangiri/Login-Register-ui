@@ -1,6 +1,15 @@
-# login_and_registration_ui
+# Login & Register App Ui
 
-A new Flutter project.
+**Login And Register App Ui With ClipPath Flutter Widget**
+
+<img src='screenshots/splash-screen.png' width='200' height='400'>
+<img src='screenshots/login-screen.png' width='200' height='400'>
+<img src='screenshots/register-screen.png' width='200' height='400'>
+<img src='screenshots/profile-screen.png' width='200' height='400'>
+
+
+**Created by AmirHossein Jahangiri**</br>
+*My artistic name is Surena*
 
 ## Getting Started
 
